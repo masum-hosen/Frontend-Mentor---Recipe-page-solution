@@ -6,12 +6,12 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Screenshot
 
-![](./design/img/Screenshot.png)
+![](./design/img/Screenshot%202025-05-24.png)
 
 ### Links
 
 - Solution URL: [Solution URL here](https://github.com/masum-hosen/Frontend-Mentor---Recipe-page-solution)
-- Live Site URL: [Live site URL here](https://cheerful-mermaid-780e1d.netlify.app/)
+- Live Site URL: [Live site URL here](https://tourmaline-klepon-11e3e0.netlify.app/)
 
 ## My process
 
